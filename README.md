@@ -1,4 +1,5 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/21RyuT3T)
+[![Open Lab in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1ctGCAyrTb2-6oiEuri2F_toW87FZunKP/view?usp=sharing)
 
 # Stat 220 Final Lab
 
